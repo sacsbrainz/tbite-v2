@@ -1,6 +1,6 @@
 # Online food website
 
-when a user click the order button a small form pops up asking them asking the user for details which is automatically sent to your email via Send grid api which is intergrated with our own api inside the website /api
+when a user click the order button a small form pops up asking the user for details which is automatically sent to your email via Send grid api which is intergrated with our own api inside the website /api
 
 # Next.js + Tailwind CSS Example
 
