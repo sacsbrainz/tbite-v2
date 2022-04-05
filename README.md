@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e/project/5d024e9e-51af-40e1-b88d-eace58c949a2.svg)](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e/project/5d024e9e-51af-40e1-b88d-eace58c949a2)
+
 # Online food website
 
 when a user click the order button a small form pops up asking the user for details which is automatically sent to your email via Send grid api which is intergrated with our own api inside the website /api
